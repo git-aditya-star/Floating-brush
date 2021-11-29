@@ -31,3 +31,10 @@ We experienced usage of image processing, color detection, drawing contours, and
 ## What's next for Floating Brush
 We are thinking of integrating it will meet applications like google meet, zoom as an alternative to whiteboard.
 We are also thinking to provide additional features such as shapes and lines. 
+
+## Images
+![alt text](https://github.com/git-aditya-star/Floating-brush/blob/main/first.jpg)
+![alt text](https://github.com/git-aditya-star/Floating-brush/blob/main/hackeram.jpg)
+![alt text](https://github.com/git-aditya-star/Floating-brush/blob/main/name.jpg)
+![alt text](https://github.com/git-aditya-star/Floating-brush/blob/main/star.jpg)
+![alt text](https://github.com/git-aditya-star/Floating-brush/blob/main/stars.jpg)
